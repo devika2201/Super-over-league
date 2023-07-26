@@ -1,0 +1,7 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
